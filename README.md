@@ -29,6 +29,7 @@ A sleek and fully responsive chat application where users can create accounts, c
 🚀 Getting Started
 
 📋 Prerequisites
+
 Before you begin, ensure you have the following installed:
 
 - Node.js
