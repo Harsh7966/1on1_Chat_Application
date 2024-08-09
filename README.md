@@ -1,12 +1,19 @@
 Chat Application
+
 A fully responsive chat application that allows users to create accounts, view online members, search for users, and engage in real-time one-on-one chats.
 
 Features
-User Authentication: Create an account and log in using JSON Web Tokens (JWT) for secure authentication.
-User Directory: After logging in, users can view a list of all members, complete with their online/offline status.
-Search Functionality: Easily find users with a search bar, allowing for quick access to initiate chats.
-Real-Time Chat: Engage in real-time one-on-one conversations using WebSockets, powered by Socket.IO on the backend and Socket.IO-client on the frontend.
-Responsive Design: The application is fully responsive, ensuring a seamless experience across devices.
+
+- User Authentication: Create an account and log in using JSON Web Tokens (JWT) for secure authentication.
+  
+- User Directory: After logging in, users can view a list of all members, complete with their online/offline status.
+  
+- Search Functionality: Easily find users with a search bar, allowing for quick access to initiate chats.
+  
+- Real-Time Chat: Engage in real-time one-on-one conversations using WebSockets, powered by Socket.IO on the backend and Socket.IO-client on the frontend.
+  
+- Responsive Design: The application is fully responsive, ensuring a seamless experience across devices.
+  
 Modern Tech Stack:
 Frontend: HTML, CSS, JavaScript, React.js
 Backend: Node.js, Express.js
