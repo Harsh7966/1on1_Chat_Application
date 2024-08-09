@@ -65,9 +65,9 @@ Before you begin, ensure you have the following installed:
   
 - Add the following variables:
   
-  - JWT_SECRET=your_jwt_secret
+  - JWT_SECRET= your_jwt_secret
     
-  - MONGODB_URI=your_mongodb_connection_string
+  - MONGODB_URI= your_mongodb_connection_string
     
 2. Starting the Server:
 
