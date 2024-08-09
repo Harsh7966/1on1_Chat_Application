@@ -31,57 +31,76 @@ A sleek and fully responsive chat application where users can create accounts, c
 📋 Prerequisites
 Before you begin, ensure you have the following installed:
 
-Node.js
-npm or yarn
-MongoDB Atlas account (for database setup)
+- Node.js
+
+- npm or yarn
+
+- MongoDB Atlas account (for database setup)
+
 ⚙️ Installation
-Clone the Repository:
 
-git clone https://github.com/Harsh7966/1on1_Chat_Application.git
-cd 1on1_Chat_Application
-Install Server Dependencies:
+1. Clone the Repository:
 
-cd server
-npm install
-Install Client Dependencies:
+- git clone https://github.com/Harsh7966/1on1_Chat_Application.git
+  
+- cd 1on1_Chat_Application
+  
+2. Install Server Dependencies:
 
-cd client
-npm install
+- cd server
+  
+- npm install
+  
+3. Install Client Dependencies:
+
+- cd client
+  
+- npm install
+  
 🔧 Configuration
-Environment Variables:
 
-Create a .env file in the server directory.
-Add the following variables:
-JWT_SECRET=your_jwt_secret
-MONGODB_URI=your_mongodb_connection_string
-Starting the Server:
+1. Environment Variables:
 
-cd server
-npm start
-Starting the Client:
+- Create a .env file in the server directory.
+  
+- Add the following variables:
+  
+  - JWT_SECRET=your_jwt_secret
+    
+  - MONGODB_URI=your_mongodb_connection_string
+    
+2. Starting the Server:
 
-cd client
-npm start
+- cd server
+  
+- npm start
+
+3. Starting the Client:
+
+- cd client
+  
+- npm start
+  
 🎉 Usage
-Access the Application: Visit http://localhost:3000 in your browser.
-Explore the Features: Create an account or log in, find other users, and start chatting!
-🛠️ Technologies Used
-Frontend: React.js, Tailwind CSS, daisyUI
-Backend: Node.js, Express.js
-Database: MongoDB Atlas
-Real-Time Communication: Socket.IO
-🤝 Contributing
-Contributions are welcome! Follow these steps to contribute:
 
-Fork the Repository.
-Create a New Branch for your feature or bug fix.
-Commit Your Changes.
-Push to Your Branch.
-Open a Pull Request.
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+- Access the Application: Visit http://localhost:5173 in your browser.
+  
+- Explore the Features: Create an account or log in, find other users, and start chatting!
+  
+🛠️ Technologies Used
+
+- Frontend: React.js, Tailwind CSS, daisyUI
+  
+-Backend: Node.js, Express.js
+
+-Database: MongoDB Atlas
+
+-Real-Time Communication: Socket.IO
 
 🙏 Acknowledgements
-Socket.IO - for real-time communication.
-Tailwind CSS - for modern, utility-first styling.
-MongoDB Atlas - for scalable database services.
+
+- Socket.IO - for real-time communication.
+
+- Tailwind CSS - for modern, utility-first styling.
+
+- MongoDB Atlas - for scalable database services.
